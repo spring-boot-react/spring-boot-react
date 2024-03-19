@@ -21,3 +21,7 @@
   <img src="./images/github.png" />
   <img src="./images/docker.png" />
 </div>
+
+<div align="center">
+  ![snake gif](https://github.com/spring-boot-react/spring-boot-react/blob/output/github-snake-dark.svg)
+</div>
