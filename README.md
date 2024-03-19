@@ -25,5 +25,9 @@
 <br />
 
 <div align="center">
-  ![snake gif](https://github.com/spring-boot-react/spring-boot-react/blob/output/github-contribution-grid-snake-dark.svg)
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/spring-boot-react/spring-boot-react/blob/output/github-contribution-grid-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/spring-boot-react/spring-boot-react/blob/output/github-contribution-grid-snake-light.svg" />
+		<img alt="github-snake" src="https://github.com/spring-boot-react/spring-boot-react/blob/output/github-contribution-grid-snake-dark.svg" />
+	</picture>
 </div>
