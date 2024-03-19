@@ -25,5 +25,5 @@
 <br />
 
 <div align="center">
-  ![snake gif](https://github.com/spring-boot-react/spring-boot-react/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/spring-boot-react/spring-boot-react/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
